@@ -1,0 +1,15 @@
+{
+	"first-name": "Ada",
+	"last-name": "lovelace",
+	"age": 43,
+	"addresses": [
+		{
+			"street": "Park Lane 3",
+			"city": "Little Town"
+		},
+		{
+			"street": "Park Lane 3",
+			"city": "Little Town"
+		}
+	]
+}
